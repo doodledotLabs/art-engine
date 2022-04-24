@@ -280,4 +280,4 @@ Trait type: Cracks
 ```
 
 Hope you create some awesome artworks with this code.
-Also check out my [NFT](https://nft.wazirx.org/collection/ANDA?tab=MINT) collection of these [eggs](https://nft.wazirx.org/collection/ANDA?tab=MINT).
+Also check out our [NFT collection](https://nft.wazirx.org/collection/ANDA?tab=MINT) of these [eggs](https://nft.wazirx.org/collection/ANDA?tab=MINT).
