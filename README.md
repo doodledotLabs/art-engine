@@ -276,4 +276,4 @@ Trait type: Cracks
 }
 ```
 
-Hope you create some awesome artworks with this code 👄
+Hope you create some awesome artworks with this code.
