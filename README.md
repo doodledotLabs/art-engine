@@ -5,8 +5,11 @@
 
 This art engine is a subset of Hashlips art engine.
 Check out his socials. He's a legend in the web3 space.
+
 [YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+
 [His Github](https://github.com/HashLips)
+
 [Hashlips-repo](https://github.com/HashLips/hashlips_art_engine)
 
 Changes:
